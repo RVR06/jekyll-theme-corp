@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "corp"
+  spec.name          = "jekyll-theme-corp"
   spec.version       = "0.1.0"
-  spec.authors       = [""]
+  spec.authors       = ["RVR06", "GitHub, Inc."]
   spec.email         = [""]
 
-  spec.summary       = "TODO: Write a short summary, because Rubygems requires one."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "Corporate theme."
+  spec.homepage      = "https://github.com/RVR06/corp"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
