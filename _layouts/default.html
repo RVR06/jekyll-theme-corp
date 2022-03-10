@@ -27,12 +27,20 @@
 
     <div class="wrapper">
       <nav>
+        <h2>Documentation</h2>
+        <hr>
         <ul></ul>
       </nav>
+      
       <section>
         {{ content }}
-
       </section>
+
+      <toc>
+        <h2>In this article</h2>
+        <ul></ul>
+      </toc>
+
       <footer>
         {% if site.github.is_project_page %}
           <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
