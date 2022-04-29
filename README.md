@@ -1,4 +1,4 @@
-# corp
+# jekyll-theme-corp
 
 Corporate Jekyll theme! 
 
@@ -13,7 +13,7 @@ Corporate Jekyll theme!
     ![](./assets/images/github-pages.png)
 1. Create a `_config.yml` within, with at least:
     ```yml
-    remote_theme: RVR06/corp
+    remote_theme: RVR06/jekyll-theme-corp
 
     plugins:
     - jekyll-remote-theme 
