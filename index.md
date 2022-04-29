@@ -95,11 +95,11 @@ end
 
 ### Small image
 
-![](./assets/images/small.svg)
+![small](./assets/images/small.svg)
 
 ### Large image
 
-![](./assets/images/large.svg)
+![large](./assets/images/large.svg)
 
 
 ### Definition lists can be used with HTML syntax.

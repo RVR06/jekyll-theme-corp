@@ -2,6 +2,8 @@
 
 Corporate Jekyll theme! 
 
+Corp is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](https://rvr06.github.io/jekyll-theme-corp/)
+
 ## Layout
 
 ![](./assets/images/layout.svg)

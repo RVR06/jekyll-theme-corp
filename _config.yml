@@ -1,7 +1,3 @@
-title: Your awesome title
-description: Write an awesome description for your new site here
-
+title: Corp theme
+description: Corp is a corporate theme for GitHub Pages.
 theme: jekyll-theme-corp
-
-plugins:
-  - jekyll-feed
