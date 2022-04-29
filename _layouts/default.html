@@ -32,12 +32,7 @@
         {{ content }}
       </section>
 
-      <div class="toc">
-        <toc class="toc-nav">
-          <h2>In this article</h2>
-          <ul></ul>
-        </toc>
-      </div>
+      {% include toc.html %}
 
       <footer>
         {% if site.github.is_project_page %}
