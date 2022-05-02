@@ -1,6 +1,4 @@
 remote_theme: RVR06/jekyll-theme-corp
 
-source: ..
-
 plugins:
 - jekyll-remote-theme 
