@@ -31,11 +31,9 @@ var fun = function lang(l) {
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+```cs
+// C# code with syntax highlighting.
+public record Item(string Name);
 ```
 
 #### Header 4
