@@ -1,3 +1,4 @@
 title: Corp theme
 description: Corp is a corporate theme for GitHub Pages.
 theme: jekyll-theme-corp
+exclude: ['docs']
