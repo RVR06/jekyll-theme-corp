@@ -8,7 +8,7 @@ echo "--- 2 -------------------------------"
 bundle exec htmlproofer ./_site --check-html --check-sri --url-ignore '/fonts.gstatic.com/'
 echo "--- 3 -------------------------------"
 bundle exec rubocop -D --config .rubocop.yml
+# echo "--- 4 -------------------------------"
+# bundle exec script/validate-html
 echo "--- 4 -------------------------------"
-bundle exec script/validate-html
-echo "--- 5 -------------------------------"
 gem build jekyll-theme-corp.gemspec
